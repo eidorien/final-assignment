@@ -1,0 +1,62 @@
+html {
+    background: pink;
+
+}
+
+body {
+    width: 95%;
+}
+#accordion {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2em;
+    border: 1px solid black;
+}
+
+#tabs {
+    padding: 0.5em;
+    width: 45%;
+    margin: auto;
+    margin-bottom: 2em;
+    border: 1px solid black;
+}
+
+#progressbar {
+    margin: 50px
+
+}
+
+.toggler {
+    margin: auto;
+    width: 240px;
+    height: 200px;
+}
+
+  #button { 
+    padding: .5em 1em; 
+    text-decoration: none; 
+}
+  #effect { 
+    width: 240px; 
+    height: 170px; 
+    padding: 0.4em; 
+    position: relative; }
+
+  #effect h3 { 
+    margin: 0; 
+    padding: 0.4em; 
+    text-align: center; 
+}
+
+  #texteffects {
+      text-align: center;
+  }
+
+  #date p {
+    text-align: center;
+
+  }
+
+.ui-widget {
+    margin-bottom: 1em;
+}
