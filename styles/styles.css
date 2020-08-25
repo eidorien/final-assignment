@@ -54,9 +54,14 @@ body {
 
   #date p {
     text-align: center;
-
+    font-weight: bold;
   }
 
 .ui-widget {
     margin-bottom: 1em;
+}
+
+h1 {
+  text-align: center;
+  padding: 0;
 }
